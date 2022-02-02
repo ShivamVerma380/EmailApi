@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WebapiApplication<webapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.email.webapi.webapi.WebapiApplication",
+            "projectName": "webapi",
+            "args": ""
+        }
+    ]
+}
